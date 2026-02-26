@@ -5,9 +5,9 @@
               pluginVST3Category="Delay" pluginAAXCategory="16">
   <MAINGROUP id="zZ3L62" name="StereoDelay">
     <GROUP id="{23515555-BF6A-AB18-7B59-CF686F47FE36}" name="Source">
-      <FILE id="KBz6vI" name="Background.png" compile="0" resource="1" file="../../../../Downloads/Background.png"/>
-      <FILE id="FVFwj9" name="silver-brushed-metal-button.png" compile="0"
-            resource="1" file="../../../../Downloads/silver-brushed-metal-button.png"/>
+      <FILE id="l3xu3E" name="Background.png" compile="0" resource="1" file="Source/Background.png"/>
+      <FILE id="TEw3TP" name="silver-brushed-metal-button.png" compile="0"
+            resource="1" file="Source/silver-brushed-metal-button.png"/>
       <FILE id="CCTUHi" name="PluginProcessor.cpp" compile="1" resource="0"
             file="Source/PluginProcessor.cpp"/>
       <FILE id="HiCvpI" name="PluginProcessor.h" compile="0" resource="0"
